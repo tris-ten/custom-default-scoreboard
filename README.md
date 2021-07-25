@@ -6,7 +6,8 @@ I'm tired of the default FiveM scoreboard with its weird looking green header an
 1. **Download** the GitHub latest release file.
 2. **Extract** custom-scoreboard.
 3. **Put** the custom-default-scoreboard file inside your **'resources'** folder.
-4. Add **`ensure custom-scoreboard`** to your server.cfg
+4. **Rename** the custom-default-scoreboard file to `scoreboard`.
+5. Add **`ensure scoreboard`** to your server.cfg
 
 ### Preview:
 https://i.imgur.com/AAwRyxj.png (post: https://imgur.com/gallery/jPSOHHl)
