@@ -9,6 +9,8 @@ I'm tired of the default FiveM scoreboard with its weird looking green header an
 3. Put custom-scoreboard file inside your 'resources' folder.
 4. Add **ensure custom-scorebard** to your server.cfg
 
+### Preview:
+https://i.imgur.com/AAwRyxj.png
 
 #### Notice:
 * I honestly don't give 2 shits if you change the source code or reupload as long as it's different from this. Maybe just link this so people know its originality.
