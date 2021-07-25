@@ -12,5 +12,5 @@ I'm tired of the default FiveM scoreboard with its weird looking green header an
 https://i.imgur.com/AAwRyxj.png (post: https://imgur.com/gallery/jPSOHHl)
 
 #### Notice:
-* I honestly don't give 2 shits if you change the source code or reupload as long as it's different from this. Maybe just link this so people know its originality.
+* I honestly don’t give 2 shits if you change the code in your own server or reupload as long as it’s different from this. Maybe just link this so people know its originality.
 * This resource is free. Why have this shit paid? Lmao took me 5 minutes.
