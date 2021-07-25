@@ -1,4 +1,4 @@
-# custom-default-scoreboard created by Tristen
+# custom-default-scoreboard
 This is a default/base FiveM file. No clue where the original file is but 🤷
 I'm tired of the default FiveM scoreboard with its weird looking green header and stuff.. and just decided to just say fuck it and make it a bit better in my eyes and remove some unnecessary stuff to it.
 
